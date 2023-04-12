@@ -1,2 +1,2 @@
-# IA_SerieTemporal_TemperaturasCidades
+# IA_SerieTemporal_TemperaturasSaoPaulo
 Treinando IA com pandas
